@@ -4,7 +4,7 @@
     "description": "My local repository for pre-production",
     "includesPattern": "**/*",
     "excludesPattern": "",
-    "repoLayoutRef" : "gradle-default",
+    "repoLayoutRef" : "maven-2-default",
     "checksumPolicyType": "client-checksums",
     "handleReleases": true,
     "handleSnapshots": false,
